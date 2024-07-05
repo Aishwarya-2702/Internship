@@ -1,4 +1,4 @@
-package basics.Multiple;
+package basics.OOPS_Concept.Multiple;
 
 public class Meals {
     public void lunch()

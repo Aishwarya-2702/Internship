@@ -1,4 +1,4 @@
-package basics;
+package basics.Assignment2;
 
 public class SIP_Calculator {
     static int periodInYears = 5; //static variable

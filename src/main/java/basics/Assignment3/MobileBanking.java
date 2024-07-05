@@ -1,4 +1,4 @@
-package basics;
+package basics.Assignment3;
 
 import java.util.Scanner;
 

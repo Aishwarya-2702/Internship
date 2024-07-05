@@ -1,4 +1,4 @@
-package basics;
+package basics.Assignment1;
 
 public class MEC_BANK {
    static String contact = "8148794224";

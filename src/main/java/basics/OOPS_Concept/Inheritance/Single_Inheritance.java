@@ -1,4 +1,4 @@
-package basics;
+package basics.OOPS_Concept.Inheritance;
 class travel{
     public void arrival(){
         String Travels_name="ABIAISHU";

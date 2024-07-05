@@ -1,4 +1,4 @@
-package basics;
+package basics.OOPS_Concept.Inheritance;
 
 class Industrial_Visit{
     public void Bus()

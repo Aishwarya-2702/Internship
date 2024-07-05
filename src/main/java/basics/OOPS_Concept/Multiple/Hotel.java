@@ -1,4 +1,4 @@
-package basics.Multiple;
+package basics.OOPS_Concept.Multiple;
 
 public class Hotel extends Meals implements Lunch,MorningTiffin,NightDinner{
     public static void main(String[] args) {
